@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    margin: 10%;
+}
+    #menu ul{
+        background-color: red;
+        margin: 0%;
+        list-style: none;
+        text-align: center
+    }
+    #menu ul li{
+        display: inline;
+    }
+    #menu ul li a{
+        padding: 10px 50px;
+        display: inline-block;
+        color: white;
+        text-decoration: none;
+        font-family: Arial;
+    }
+    #menu ul li a:hover{
+        color:black
+    }
+       
+    
+
+    
+    h1{
+    font-family:Arial;
+    color: red;
+    text-align: center;
+     }
+    h5{
+    font-family:Arial;
+    color: white
+    }
+    h3{
+    font-family:Arial;
+    color: white
+}

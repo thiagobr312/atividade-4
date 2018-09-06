@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    margin: 10%;
+    text-align: center
+}
+h1{
+    color: white;
+    background-color: red;
+    text-align: center
+}
+#menu ul{
+    background-color: red;
+    margin: 0%;
+    list-style: none;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    padding: 10px 50px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+}
+#menu ul li a:hover{
+    color:black
+}
